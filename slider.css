@@ -1,0 +1,17 @@
+.slider {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+}
